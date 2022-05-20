@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumHubScoreboardBalance",
+    "languages": {
+      "en_US": "Balance:",
+      "ru_RU": "Баланс:"
+    }
+  }
+]

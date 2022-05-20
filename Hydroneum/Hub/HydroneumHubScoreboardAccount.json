@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumHubScoreboardAccount",
+    "languages": {
+      "en_US": "Account:",
+      "ru_RU": "Аккаунт:"
+    }
+  }
+]

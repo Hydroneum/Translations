@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumNetworkConnectSurvivalTags",
+    "languages": {
+      "en_US": "&a#survival &b#openworld &e#mobs",
+      "ru_RU": "&a#выживание &b#открытыймир &e#мобы"
+    }
+  }
+]

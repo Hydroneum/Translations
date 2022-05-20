@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumNetworkConnectAnyConnect",
+    "languages": {
+      "en_US": "Click to connect to this mode",
+      "ru_RU": "Нажмите чтобы подключиться к этому режиму"
+    }
+  }
+]

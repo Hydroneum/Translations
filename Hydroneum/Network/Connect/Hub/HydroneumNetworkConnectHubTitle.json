@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumNetworkConnectHubTitle",
+    "languages": {
+      "en_US": "Primary Hub",
+      "ru_RU": "Главный Хаб"
+    }
+  }
+]
