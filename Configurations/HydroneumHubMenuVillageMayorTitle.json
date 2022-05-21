@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumHubMenuVillageMayorTitle",
+    "languages": {
+      "en_US": "Village Mayor",
+      "ru_RU": "Мер Деревни"
+    }
+  }
+]

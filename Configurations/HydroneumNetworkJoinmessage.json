@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumNetworkJoinmessage",
+    "languages": {
+      "en_US": "&7Player &f%1 &7joined the mode",
+      "ru_RU": "&7Игрок &f%1 &7присоединился к режиму"
+    }
+  }
+]

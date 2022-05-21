@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumNetworkLeavemessage",
+    "languages": {
+      "en_US": "&7Player &f%1 &7left the mode",
+      "ru_RU": "&7Игрок &f%1 &7вышел из режима"
+    }
+  }
+]
