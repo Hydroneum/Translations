@@ -1,0 +1,10 @@
+[
+  {
+    "type": "text",
+    "key": "HydroneumNetworkConnectVanillaDesc3",
+    "languages": {
+      "en_US": "only by player votes.",
+      "ru_RU": "только поголосованиям игроков."
+    }
+  }
+]
