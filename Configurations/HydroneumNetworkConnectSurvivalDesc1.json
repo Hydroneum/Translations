@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectSurvivalDesc1",
-    "languages": {
-      "en_US": "Explore endless custom-generated world",
-      "ru_RU": "Исследуйте бесконечный процедурно-сгенерированный мир"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectSurvivalDesc1",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Исследуйте бесконечный процедурно-сгенерированный мир",
+        "en_US": "Explore endless custom-generated world"
+      }
     }
-  }
-]
+  ]
+}

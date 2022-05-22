@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumSurvivalItem2Desc1",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Запускает в воздух и даёт невидимость при использовании.",
+        "en_US": "Launches in air and gives invisibility when used."
+      }
+    }
+  ]
+}

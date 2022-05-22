@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectSurvivalTags",
-    "languages": {
-      "en_US": "&a#survival &b#openworld &e#mobs",
-      "ru_RU": "&a#выживание &b#открытыймир &e#мобы"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectSurvivalTags",
+      "type": "text",
+      "languages": {
+        "ru_RU": "\u0026a#выживание \u0026b#открытыймир \u0026e#мобы",
+        "en_US": "\u0026a#survival \u0026b#openworld \u0026e#mobs"
+      }
     }
-  }
-]
+  ]
+}

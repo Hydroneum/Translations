@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkJoinmessage",
-    "languages": {
-      "en_US": "&7Player &f%1 &7joined the mode",
-      "ru_RU": "&7Игрок &f%1 &7присоединился к режиму"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkJoinmessage",
+      "type": "text",
+      "languages": {
+        "ru_RU": "\u00267Игрок \u0026f%1 \u00267присоединился к режиму",
+        "en_US": "\u00267Player \u0026f%1 \u00267joined the mode"
+      }
     }
-  }
-]
+  ]
+}

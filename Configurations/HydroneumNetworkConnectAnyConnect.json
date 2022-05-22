@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectAnyConnect",
-    "languages": {
-      "en_US": "Click to connect to this mode",
-      "ru_RU": "Нажмите чтобы подключиться к этому режиму"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectAnyConnect",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Нажмите чтобы подключиться к этому режиму",
+        "en_US": "Click to connect to this mode"
+      }
     }
-  }
-]
+  ]
+}

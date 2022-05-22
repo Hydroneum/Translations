@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectSurvivalTitle",
-    "languages": {
-      "en_US": "Survival+",
-      "ru_RU": "Выживание+"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectSurvivalTitle",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Выживание+",
+        "en_US": "Survival+"
+      }
     }
-  }
-]
+  ]
+}

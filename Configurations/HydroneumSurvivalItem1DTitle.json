@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumSurvivalItem1DTitle",
-    "languages": {
-      "en_US": "Soldier's boots",
-      "ru_RU": "Ботинки солдата"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumSurvivalItem1DTitle",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Ботинки солдата",
+        "en_US": "Soldier\u0027s boots"
+      }
     }
-  }
-]
+  ]
+}

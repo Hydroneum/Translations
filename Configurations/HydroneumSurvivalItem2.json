@@ -5,11 +5,11 @@
   },
   "items": [
     {
-      "key": "HydroneumHubScoreboardBalance",
+      "key": "HydroneumSurvivalItem2",
       "type": "text",
       "languages": {
-        "ru_RU": "Баланс:",
-        "en_US": "Balance:"
+        "ru_RU": "Щит Ускользания",
+        "en_US": "Shield of Escape"
       }
     }
   ]

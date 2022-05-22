@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumSurvivalItem2Desc2",
+      "type": "text",
+      "languages": {
+        "ru_RU": "\u0026c\u0026lИспользует всё доступное здоровье.",
+        "en_US": "\u0026c\u0026lUses all available health."
+      }
+    }
+  ]
+}

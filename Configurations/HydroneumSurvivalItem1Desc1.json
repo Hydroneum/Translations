@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumSurvivalItem1Desc1",
-    "languages": {
-      "en_US": "Gives +3 to attack speed when worn",
-      "ru_RU": "Даёт +3 к скорости атаки когда одета"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumSurvivalItem1Desc1",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Даёт +3 к скорости атаки когда одета",
+        "en_US": "Gives +3 to attack speed when worn"
+      }
     }
-  }
-]
+  ]
+}

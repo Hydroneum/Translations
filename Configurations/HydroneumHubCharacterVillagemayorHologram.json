@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumHubCharacterVillagemayorHologram",
-    "languages": {
-      "en_US": "Village Mayor",
-      "ru_RU": "Мер Деревни"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumHubCharacterVillagemayorHologram",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Мер Деревни",
+        "en_US": "Village Mayor"
+      }
     }
-  }
-]
+  ]
+}

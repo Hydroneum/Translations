@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumSurvivalItem1BTitle",
-    "languages": {
-      "en_US": "Soldier's tunic",
-      "ru_RU": "Куртка солдата"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumSurvivalItem1BTitle",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Куртка солдата",
+        "en_US": "Soldier\u0027s tunic"
+      }
     }
-  }
-]
+  ]
+}

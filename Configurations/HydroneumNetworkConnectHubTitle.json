@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectHubTitle",
-    "languages": {
-      "en_US": "Primary Hub",
-      "ru_RU": "Главный Хаб"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectHubTitle",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Главный Хаб",
+        "en_US": "Primary Hub"
+      }
     }
-  }
-]
+  ]
+}

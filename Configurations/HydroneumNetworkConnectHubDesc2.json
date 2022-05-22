@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectHubDesc2",
-    "languages": {
-      "en_US": "with its own storyline and",
-      "ru_RU": "с собственной сюжетной линией и"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectHubDesc2",
+      "type": "text",
+      "languages": {
+        "ru_RU": "с собственной сюжетной линией и",
+        "en_US": "with its own storyline and"
+      }
     }
-  }
-]
+  ]
+}

@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkLeavemessage",
-    "languages": {
-      "en_US": "&7Player &f%1 &7left the mode",
-      "ru_RU": "&7Игрок &f%1 &7вышел из режима"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkLeavemessage",
+      "type": "text",
+      "languages": {
+        "ru_RU": "\u00267Игрок \u0026f%1 \u00267вышел из режима",
+        "en_US": "\u00267Player \u0026f%1 \u00267left the mode"
+      }
     }
-  }
-]
+  ]
+}

@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectSurvivalDesc3",
-    "languages": {
-      "en_US": "enchants, talismans, skills and more",
-      "ru_RU": "зачарования, талисманы, способности и многое другое"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectSurvivalDesc3",
+      "type": "text",
+      "languages": {
+        "ru_RU": "зачарования, талисманы, способности и многое другое",
+        "en_US": "enchants, talismans, skills and more"
+      }
     }
-  }
-]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumSurvivalItem2Desc2",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Подождите пока предмет не перезарядится",
+        "en_US": "Please wait until the item will recharge"
+      }
+    }
+  ]
+}

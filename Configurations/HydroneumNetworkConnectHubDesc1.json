@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectHubDesc1",
-    "languages": {
-      "en_US": "The main trading platform of the",
-      "ru_RU": "Главная торговая площадка"
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectHubDesc1",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Главная торговая площадка",
+        "en_US": "The main trading platform of the"
+      }
     }
-  }
-]
+  ]
+}

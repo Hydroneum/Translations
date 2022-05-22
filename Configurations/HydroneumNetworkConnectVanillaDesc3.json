@@ -1,10 +1,16 @@
-[
-  {
-    "type": "text",
-    "key": "HydroneumNetworkConnectVanillaDesc3",
-    "languages": {
-      "en_US": "only by player votes.",
-      "ru_RU": "только поголосованиям игроков."
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumNetworkConnectVanillaDesc3",
+      "type": "text",
+      "languages": {
+        "ru_RU": "только поголосованиям игроков.",
+        "en_US": "only by player votes."
+      }
     }
-  }
-]
+  ]
+}
