@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumHubMenuVillagemayorLangDesc2",
+      "type": "text",
+      "languages": {
+        "ru_RU": "изменить ваш язык, нажав на эту кнопку.",
+        "en_US": "language by clicking on this button."
+      }
+    }
+  ]
+}

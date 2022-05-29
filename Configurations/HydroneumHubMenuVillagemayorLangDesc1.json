@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "HydroneumHubMenuVillagemayorLangDesc1",
+      "type": "text",
+      "languages": {
+        "ru_RU": "Hydroneum поддерживает изменение языков. Вы можете",
+        "en_US": "Hydroneum is multilanguage. You can change your"
+      }
+    }
+  ]
+}

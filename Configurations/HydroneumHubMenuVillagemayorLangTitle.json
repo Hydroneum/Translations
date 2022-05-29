@@ -5,11 +5,11 @@
   },
   "items": [
     {
-      "key": "HydroneumHubCharacterVillagemayorHologram",
+      "key": "HydroneumHubMenuVillagemayorLangTitle",
       "type": "text",
       "languages": {
-        "ru_RU": "Мэр Деревни",
-        "en_US": "Village Mayor"
+        "ru_RU": "Изменить язык",
+        "en_US": "Change language"
       }
     }
   ]
